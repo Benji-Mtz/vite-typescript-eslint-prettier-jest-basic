@@ -1,0 +1,12 @@
+.vscode
+.eslintrc.cjs
+.prettierrc
+dist/
+build/
+analysis/
+coverage/
+package*.json
+
+
+# Prettier Messes up the comments.
+tsconfig*.json
